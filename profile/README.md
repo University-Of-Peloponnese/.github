@@ -1,4 +1,4 @@
-![university logo](logo-uop-black-red-v1.png)
+![university logo](../logo-uop-black-red-v1.png)
 
 Καλωσορίσατε στον επίσημο οργανισμό GitHub του Πανεπιστημίου Πελοποννήσου!
 
