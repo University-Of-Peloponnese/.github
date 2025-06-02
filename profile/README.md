@@ -18,7 +18,7 @@ Welcome to the official ![GitHub](https://img.shields.io/badge/GitHub-181717?sty
 This organization serves as a central hub for collaborative development, open-source projects, and educational resources related to the various departments and research groups within our university.
 
 ## Contact
-For general inquiries about the University of Peloponnese, please visit our official website: https://www.uop.gr/
+For general inquiries about the University of the Peloponnese, please visit our official website: https://www.uop.gr/
 
 For inquiries regarding this ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) organization, you can email: ktsouvalis@uop.gr
 
